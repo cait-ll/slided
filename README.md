@@ -10,4 +10,5 @@ slided [INTERVAL IN SECONDS (default 600)]
 
 ## Support
 X11 - Works great using feh as a backend.
+
 Wayland (WLR) - ??? using swaybg as a backend
